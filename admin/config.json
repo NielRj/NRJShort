@@ -1,20 +1,20 @@
 {
     "installer": {
         "username": "admin",
-        "password": ""
+        "password": "nrjshort123"
     },
     "settings": {
-        "name": "devShort shortlink service",
-        "author": "The admin",
-        "home_link": "https://github.com/flokX/devShort",
+        "name": "NRJ Short",
+        "author": "NielRJ",
+        "home_link": "https://github.com/NielRj/NRJShort",
         "favicon": "assets/icon.png",
         "custom_links": {
-            "devShort wiki": "https://github.com/flokX/devShort/wiki",
-            "devShort author": "https://github.com/flokX"
+            "devShort wiki": "https://github.com/NielRj/NRJShort/wiki",
+            "devShort author": "https://github.com/NielRj"
         }
     },
     "shortlinks": {
-        "repo": "https://github.com/flokX/devShort",
-        "wiki": "https://github.com/flokX/devShort/wiki"
+        "repo": "https://github.com/NielRj/NRJShort",
+        "wiki": "https://github.com/NielRj/NRJShort/wiki"
     }
 }
